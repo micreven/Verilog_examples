@@ -1,0 +1,1 @@
+vcs -R tb_dishwash_stm.v dishwash_stm.v +v2k +define+RTL_SAIF
